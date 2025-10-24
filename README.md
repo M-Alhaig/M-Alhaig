@@ -65,4 +65,3 @@ Currently focused on mastering **Spring Boot**, **microservices**, and **cloud-n
 
 ---
 
-⭐ *“Build, break, and rebuild — that’s how real learning happens.”*
